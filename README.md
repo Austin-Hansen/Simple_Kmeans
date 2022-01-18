@@ -1,4 +1,4 @@
-# Machine_Learning_Algorithms
+# Kmeans clustering
 
 Kmeans algorithm from CSE-4309 FUNDAMENTALS OF MACHINE LEARNING
 
